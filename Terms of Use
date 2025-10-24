@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>大牛手机助手 - 使用条款</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #3B82F6;
+            font-size: 28px;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+        .date-info {
+            text-align: center;
+            margin-bottom: 30px;
+            color: #666;
+        }
+        h2 {
+            color: #1E40AF;
+            font-size: 20px;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            border-bottom: 2px solid #E5E7EB;
+            padding-bottom: 5px;
+        }
+        h3 {
+            color: #3B82F6;
+            font-size: 16px;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+        p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+        ul {
+            margin-bottom: 15px;
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        .highlight {
+            background-color: #FEF3C7;
+            padding: 15px;
+            border-left: 4px solid #F59E0B;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        .contact-info {
+            background-color: #F0F9FF;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 30px;
+            border-left: 4px solid #3B82F6;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #E5E7EB;
+            color: #666;
+            font-size: 14px;
+        }
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+            .container {
+                padding: 20px;
+            }
+            h1 {
+                font-size: 24px;
+            }
+            h2 {
+                font-size: 18px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>使用条款</h1>
+        <div class="date-info">
+            <strong>更新日期：2025/10/24</strong><br>
+            <strong>生效日期：2025/10/24</strong>
+        </div>
+
+        <h2>导言</h2>
+        <p>欢迎使用大牛手机助手！本使用条款（以下简称"本条款"）是您与深圳市黑元科技有限公司（以下简称"我们"或"公司"）之间关于您使用大牛手机助手应用（以下简称"本应用"）所订立的协议。</p>
+        <p>请您仔细阅读本条款，特别是免除或者限制责任的条款。免除或者限制责任的条款将以粗体标识，您应重点阅读。如您不同意本条款的任意内容，或者无法准确理解相关条款的含义，请不要进行后续操作。</p>
+
+        <h2>1. 服务内容</h2>
+        <h3>1.1 应用功能</h3>
+        <p>大牛手机助手是一款手机系统信息展示工具，主要提供以下功能：</p>
+        <ul>
+            <li>系统信息展示和查看</li>
+            <li>网络速度测试</li>
+            <li>设备信息显示</li>
+            <li>其他系统相关信息展示</li>
+        </ul>
+        
+        <h3>1.2 功能性质</h3>
+        <p><strong>重要声明：本应用提供的所有功能均为信息展示和演示性质，不会对您的设备进行任何实际的系统修改、优化、清理、检测或诊断分析操作。</strong></p>
+        
+        <h3>1.3 服务变更</h3>
+        <p>我们保留随时修改、升级或终止本应用任何功能的权利，无需事先通知用户。</p>
+
+        <h2>2. 用户权利和义务</h2>
+        <h3>2.1 用户权利</h3>
+        <ul>
+            <li>在遵守本条款的前提下，免费使用本应用的基本功能</li>
+            <li>通过订阅服务享受高级功能</li>
+            <li>随时停止使用本应用</li>
+            <li>就应用问题向我们反馈</li>
+        </ul>
+        
+        <h3>2.2 用户义务</h3>
+        <ul>
+            <li>遵守相关法律法规</li>
+            <li>不得将本应用用于任何非法目的</li>
+            <li>不得尝试破解、逆向工程或修改本应用</li>
+            <li>不得传播恶意软件或进行其他有害行为</li>
+            <li>保护自己的账户安全</li>
+        </ul>
+
+        <h2>3. 订阅服务</h2>
+        <h3>3.1 订阅计划</h3>
+        <ul>
+            <li><strong>周订阅：</strong>7天自动续费</li>
+            <li><strong>季订阅：</strong>90天自动续费</li>
+            <li><strong>年订阅：</strong>365天自动续费</li>
+        </ul>
+        
+        <h3>3.2 订阅管理</h3>
+        <ul>
+            <li>订阅将通过您的Apple ID账户进行管理</li>
+            <li>您可以在App Store的订阅管理中取消订阅</li>
+            <li>取消订阅后，您仍可使用至当前订阅期结束</li>
+        </ul>
+        
+        <h3>3.3 价格和支付</h3>
+        <ul>
+            <li>订阅价格以App Store显示为准</li>
+            <li>价格可能因地区而异</li>
+            <li>支付将通过您的Apple ID进行</li>
+            <li>我们不会直接处理您的支付信息</li>
+        </ul>
+        
+        <h3>3.4 自动续费</h3>
+        <div class="highlight">
+            <p><strong>重要提示：</strong></p>
+            <ul>
+                <li>订阅将自动续费，除非在当前订阅期结束前至少24小时关闭自动续费</li>
+                <li>续费费用将在当前订阅期结束前24小时内从您的Apple ID账户中扣除</li>
+                <li>您可以通过Apple App Store的订阅管理功能管理自动续费</li>
+            </ul>
+        </div>
+        
+        <h3>3.5 退款政策</h3>
+        <ul>
+            <li>退款请求需要通过Apple App Store处理</li>
+            <li>我们无法直接处理退款请求</li>
+            <li>请参考Apple App Store的退款政策</li>
+            <li>如有退款问题，请联系Apple客服</li>
+        </ul>
+
+        <h2>4. 知识产权</h2>
+        <h3>4.1 版权声明</h3>
+        <p>本应用及其所有内容（包括但不限于软件、界面设计、文字、图片、音频、视频等）的知识产权均归我们所有。</p>
+        
+        <h3>4.2 使用限制</h3>
+        <p>未经我们书面许可，您不得：</p>
+        <ul>
+            <li>复制、修改、传播本应用</li>
+            <li>对本应用进行逆向工程、反编译或反汇编</li>
+            <li>使用本应用的任何内容用于商业目的</li>
+            <li>删除或修改本应用中的任何版权标识</li>
+        </ul>
+
+        <h2>5. 免责声明</h2>
+        <div class="highlight">
+            <p><strong>重要免责声明：</strong></p>
+            <p>本应用提供的所有功能均为信息展示和演示性质，不会对您的设备进行任何实际的系统修改、优化、清理、检测或诊断分析操作。</p>
+        </div>
+        
+        <h3>5.1 责任限制</h3>
+        <p>我们不对以下情况承担责任：</p>
+        <ul>
+            <li>因使用本应用而导致的任何直接或间接损失</li>
+            <li>因网络问题、设备故障等原因导致的应用无法正常使用</li>
+            <li>因第三方服务（如Apple App Store）问题导致的订阅或支付问题</li>
+            <li>因用户违反本条款而导致的任何后果</li>
+            <li>因用户误解应用功能而导致的任何问题</li>
+        </ul>
+        
+        <h3>5.2 服务保证</h3>
+        <p>本应用按"现状"提供，我们不保证应用不会中断或没有错误。</p>
+
+        <h2>6. 隐私保护</h2>
+        <h3>6.1 隐私政策</h3>
+        <p>我们非常重视您的隐私保护，具体的隐私政策请参见我们的《隐私政策》。</p>
+        
+        <h3>6.2 隐私承诺</h3>
+        <p>我们承诺：</p>
+        <ul>
+            <li>不会收集您的个人身份信息</li>
+            <li>所有数据优先存储在您的设备本地</li>
+            <li>不会将您的数据上传到任何服务器</li>
+            <li>不会与第三方共享您的个人信息</li>
+        </ul>
+
+        <h2>7. 服务变更和终止</h2>
+        <h3>7.1 服务变更</h3>
+        <p>我们保留随时修改、升级或终止本应用任何功能的权利。</p>
+        
+        <h3>7.2 服务终止</h3>
+        <p>在以下情况下，我们可能会终止为您提供服务：</p>
+        <ul>
+            <li>您违反本条款</li>
+            <li>法律法规要求</li>
+            <li>不可抗力因素</li>
+            <li>其他我们认为必要的情况</li>
+        </ul>
+        
+        <h3>7.3 终止处理</h3>
+        <p>服务终止时，我们将提前通知您，并协助您处理相关事宜。</p>
+
+        <h2>8. 争议解决</h2>
+        <h3>8.1 适用法律</h3>
+        <p>本条款的签订、履行和解释均适用中华人民共和国法律。</p>
+        
+        <h3>8.2 争议处理</h3>
+        <p>因本条款产生的争议，双方应友好协商解决；协商不成的，可向有管辖权的人民法院提起诉讼。</p>
+        
+        <h3>8.3 条款效力</h3>
+        <p>如本条款的某些条款被认定为无效或不可执行，不影响其他条款的效力。</p>
+
+        <h2>9. 条款修改</h2>
+        <h3>9.1 修改权利</h3>
+        <p>我们可能会适时修订本条款。</p>
+        
+        <h3>9.2 修改通知</h3>
+        <p>条款修改时，我们会在应用内或通过其他方式通知您。</p>
+        
+        <h3>9.3 用户选择</h3>
+        <p>如您不同意修改后的条款，可以停止使用本应用。</p>
+        
+        <h3>9.4 继续使用</h3>
+        <p>如您继续使用本应用，视为您同意修改后的条款。</p>
+
+        <h2>10. 联系我们</h2>
+        <div class="contact-info">
+            <p>如您对本条款有任何疑问，请通过以下方式联系我们：</p>
+            <p><strong>邮箱：</strong>rnthking@icloud.com</p>
+            <p>我们会在收到您的反馈后及时回复。</p>
+        </div>
+
+        <div class="footer">
+            <p>© 2025 深圳市黑元科技有限公司 保留所有权利</p>
+            <p>本条款最后更新时间：2025年10月24日</p>
+        </div>
+    </div>
+</body>
+</html>
